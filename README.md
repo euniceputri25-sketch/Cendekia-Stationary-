@@ -3,7 +3,7 @@ Cendekia Stationary: Sistem POS dan Akuntansi Persediaan Toko ATK
 
 Aplikasi web untuk mencatat pembelian (restock), penjualan kasir, dan pergerakan stok toko alat tulis kantor (ATK), lalu menyusun jurnal dan laporan secara otomatis dari setiap transaksi.
 
-Web App: https://euniceputri25-sketch.github.io/Sistem-Persediaan-ATK-/
+Web App: (https://euniceputri25-sketch.github.io/Cendekia-Stationary-/)
 
 Fitur Utama
 Master Data Barang: SKU, kategori, harga beli (HPP), harga jual, stok, dan batas stok minimum (ROP).
