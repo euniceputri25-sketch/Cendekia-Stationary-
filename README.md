@@ -27,4 +27,4 @@ Data prototipe disimpan di memori browser, sehingga hilang jika halaman di-refre
 Memerlukan koneksi internet untuk memuat pustaka grafik dan ekspor.
 Pengembang
 
-[Nama Mahasiswa] · [NIM] · Pengkodean dan Pemrograman, Kelas E
+[Eunice Putri Shekina] · [12030124140310] · Pengkodean dan Pemrograman, Kelas E
